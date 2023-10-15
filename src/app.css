@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.listItem {
+	@apply flex gap-2 w-[90px] py-2 cursor-pointer;
+}
