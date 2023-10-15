@@ -23,3 +23,9 @@
         <p>planing</p>
       </div>
     </div>
+
+    <style>
+      .listItem p{
+        text-transform: capitalize;
+      }
+    </style>
